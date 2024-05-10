@@ -1,4 +1,4 @@
-const dataa=[
+const data=
     {
         currentUser: {
           name: "Bradlay Ortiz",
@@ -118,7 +118,7 @@ const dataa=[
             }
           },
           {
-            id: "051",
+            id: "6",
             logo: "/src/assets/images/Profile-Photo.svg",
             content: {
               body: {
@@ -127,7 +127,28 @@ const dataa=[
                   userName: "bradley_",
                   details3: "now"
                 },
-                text: "hello",
+                text: "congo mon pays",
+                image: ""
+              },
+              actions: {
+                action1: 0,
+                action2: 0,
+                action3: 0,
+                action4: ""
+              }
+            }
+          },
+          {
+            id: "7",
+            logo: "/src/assets/images/Profile-Photo.svg",
+            content: {
+              body: {
+                title: {
+                  author: "Bradlay Ortiz",
+                  userName: "bradley_",
+                  details3: "now"
+                },
+                text: "Nous sommes un peuple beni",
                 image: ""
               },
               actions: {
@@ -140,6 +161,6 @@ const dataa=[
           }
         ]
       }
-]
 
-export default dataa;
+
+export default data;
