@@ -1,5 +1,5 @@
 {
-  "name": "backk",
+  "name": "backend_server",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,7 @@
     "star": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "CHOLA MAKELELE David",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
